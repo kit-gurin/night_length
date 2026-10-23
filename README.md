@@ -42,3 +42,14 @@ NOTE: Due to data sharing expectations of the Urban Wildlife Information Network
     | nadir | closest solar nadir (darkest point of night) to the timestamp
     | nadir_diff | difference between nadir and timestamp in minutes |
     | nl | night length in hours |
+
+### Figures
+* [figure01.png](./figures/figure01.png). 'Availability hypothesis' conceptual figure
+* [figure02.png](./figures/figure02.png). 'Release hypothesis' conceptual figure
+* [figure03.png](./figures/figure03.png). Map of study areas and focal taxa count
+* [figure04.png](./figures/figure04.png). Average species results for availability and release hypotheses
+* [figure05.png](./figures/figure05.png). Species-level results for the 'availability hypothesis'
+* [figure06.png](./figures/figure06.png). Species-level results for the 'release hypothesis'
+
+### night_length.Rproj
+R Project for organizing/accessing data and code in RStudio
